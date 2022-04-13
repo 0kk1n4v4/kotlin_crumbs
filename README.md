@@ -6,4 +6,4 @@
 1. Стилистика кода
 
 * Имена классов с UpperCamelCase
-* Имена пакетов с lowerCamelCase
+* Имена пакетов/функций с lowerCamelCase
